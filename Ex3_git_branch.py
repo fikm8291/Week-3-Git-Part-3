@@ -18,10 +18,6 @@ print("Welcome to the Greeting Program!")
 # 1. Ask the user for their name
 # 2. Ask the user for their favourite hobby
 # 3. Print a greeting using both inputs
-# Example:
-# name = input("What is your name? ")
-# hobby = input("What is your favourite hobby? ")
-# print(f"Hello {name}! It's great that you enjoy {hobby}!")
 
 # Step 2: Git Branch
 # ------------------
@@ -33,10 +29,10 @@ print("Welcome to the Greeting Program!")
 #    git checkout yourname
 # 4. Make your Python changes (input/output for name & hobby)
 # 5. Stage and commit your changes:
-#    git add Ex4_branch_pr.py
+#    git add Ex3_git_branch.py
 #    git commit -m "Added greeting with hobby"
 # 6. Push your branch to GitHub:
-#    git push origin yourname
+#    git push origin yourbranchname
 
 # Step 3: Pull Request
 # --------------------
